@@ -451,6 +451,7 @@ video {
     .csslider ul {
         width: 700px;
     }
+
 }
 
 @media only screen and (max-width: 800px) {
@@ -458,6 +459,15 @@ video {
     .csslider ul {
         width: 500px;
     }
+
+}
+
+@media only screen and (max-width: 576px) {
+
+    .csslider ul {
+        width: 300px;
+    }
+
 }
 
 /* FOLLOW */
